@@ -4,6 +4,7 @@ Live background for streamers with a UI for customizability. Geared towards part
 Link to live demo of project: https://twitchbackgroundchanger.netlify.app/
 
 ![Live Demo gif](https://media.giphy.com/media/IZZC4RvZ1t7RW7RAIl/giphy.gif)
+<iframe src="https://giphy.com/embed/IZZC4RvZ1t7RW7RAIl" width="480" height="210" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/github-background-changer-IZZC4RvZ1t7RW7RAIl">via GIPHY</a></p>
 
 # How It's Made:
 Tech used: HTML, CSS, JavaScript, and Canvas
