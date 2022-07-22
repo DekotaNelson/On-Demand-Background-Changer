@@ -10,10 +10,10 @@ Link to live demo of project: https://twitchbackgroundchanger.netlify.app/
 # How It's Made:
 Tech used: HTML, CSS, JavaScript, and Canvas
 
-Utilizing ctx from canvas, I created, drew, and updated 2d  models on the DOM with randomized paths creating a live background similar to classic screen savers. With this in mind, I also added numerous booliean varibles tied to drawing and pathes and connected them to an easy to use user interface to allow customizatuion fo the live background rendering.
+Utilizing ctx from canvas, I created, drew, and updated 2d models on the DOM with randomized paths creating a live background similar to classic screensavers. With this in mind, I also added numerous boolean variables tied to the drawing of the models as well as their paths. I  connected all of these to an easy to use user interface to allow customization of the live background rendering.
 
 # Lessons Learned:
-Through this project I was able to learn a lot regarding the intricacies of canvas's ctx and advanced use of RGBA . Exspecially through the building of the customize system, I was able to really dive into the nitty gritty and learn what each little bit controlled and how to utilize that to a desired effect.
+Through this project I was able to learn a lot regarding the intricacies of canvas's ctx and advanced use of RGBA . Especially through the building of the customize system, I was able to really dive into the nitty gritty and learn what each little bit controlled and how to utilize that to a desired effect.
 
 # Other Projects:
 Take a look at these couple examples that I have in my own portfolio:
